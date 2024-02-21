@@ -1,2 +1,2 @@
 # The-Grail
-A image generating software( using npu)
+A minimalist image-generating software
