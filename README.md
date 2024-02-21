@@ -1,2 +1,2 @@
-# The-Grail
+# the-Grail
 A minimalist image-generating software
